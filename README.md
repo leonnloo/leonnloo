@@ -5,9 +5,9 @@
 Dive into my GitHub! I'm dedicated to merging creativity and technology, with a strong interest in web3 advancements and Artificial Intelligence. Explore my projects, ideas, and experiments as I navigate the digital frontier. Let's create something extraordinary together!
 </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=leonnloo&label=Profile%20views&color=e12323&style=flat" alt="leonnloo" /> </p>
 
 - 👯 I’m looking to collaborate on **any Dapps**
-
 - 📫 How to reach me **looyang01@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
