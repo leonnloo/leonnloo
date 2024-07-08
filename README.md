@@ -1,7 +1,10 @@
-<h1 align="center">Hi 👋, I'm Leon</h1>
-<h3 align="center">Dabbling in the web3 space</h3>
+<h1>Welcome 👋, I'm Leon</h1>
+<h3>Dabbling in web2 & web3</h3>
 
-- 🔭 I’m currently working on **e-commerce website**
+<p>
+Dive into my GitHub! I'm dedicated to merging creativity and technology, with a strong interest in web3 advancements and Artificial Intelligence. Explore my projects, ideas, and experiments as I navigate the digital frontier. Let's create something extraordinary together!
+</p>
+
 
 - 👯 I’m looking to collaborate on **any Dapps**
 
